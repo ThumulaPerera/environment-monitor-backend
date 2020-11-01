@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "environment-monitoring-dd607",
+  "private_key_id": "ab0f486eb30c94a717c48cf2676af41426bee3b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDm3/zivOArnrVH\nXsXGIK8ZQ7dvvBQHZBsRnYacdyxj4zu3MWtJP0VOlI4LzbsWs7SRW0CL//7YznOb\nyqzYb3mVdVR/sHSSwEq/cd++sGHmrthUQsZqePO3EfF4Hj3qIOpyLzxBg2iwnAS+\nHe33hiwtFpYjHE3o4t9cIOV//EStJCddi401YUfhpeh04Ssvx20I/EoFDh1CyvG5\nxcxDNhZ8va7qUCgbjEFbKDte2oUvIZW3V8gQDfxtkLE8AjdzhRcWZ0TsumDo78Xe\nDaEC0BE3n/HpeGJ0m08Inib1Diz5LEuq8aXYxL1E08wZ5b5YnunxVfDppOJyWobn\nSblDzUGjAgMBAAECggEAN/h1RkKj1e9T40mGiNHDoUxZXC0sbd5G8a5Ow//gMxcT\nkwXYDJnaI4LALPxjLs3CKLsGmuokzkq+nDY2UQI1Z5ZaNdqBaFJVzLO+mmwIT/Rz\nXXoSwB0yeF9ROt2aBPiV3bi10uwYpTgtrilzV16ftw6St1BVUvAtVhhjivONcqur\nHdwmJLq0C17GEczUzf5j12I3NgMnUBpgnv7aFKc1KjRTTXtRuLrNFdYFd8GgiLBy\nh0KcSb1YutsAGRNeIR2SiDPGkpWjuJWz9LvbBvFZbOEI4bGo7hmJcDktpVL2yqa5\nhaF3M3dF6SPXQRgmZyOuR8YE0xWWDv5p20WGGQRIAQKBgQD+yF1HGVI6L7CSBD3T\ny5s3qprpe6fDcrfxav0qrF8x/fNOJyizUIRrPOFLecfeiFzgVXjvSqZPWUmjWe0r\nQr4jHy0aj1R3Uq6reLDa9siIAiyPDHjdJO5NDEHtDfgSovBcZaiHoJs605UUjt5T\naBEnhtRSn3adCyRyjS9CtT9m4wKBgQDn+mGDMfVjtDux845aT38xJpjT5o7eh5qY\nQu7l2dkN+qRDV+36h0i1n+ccA+UkzzpYMM4IRBbxhejHb9Gk/xcSSyt9iIMzWQC1\nKxoBjgV3tOU+NgdXbQaaMOkFl6w1L9x6zTq7Zpdw562RDPjcIJnJ9zLI8EwHdM2G\nqUJmmLL2QQKBgD+LB0CJPynF5Rq1thnRiPe8NACRV4j2Xov2bAetj9xvArR2Lb9z\nEGOSfnoNeFy207sbdhrwGkRl92inL/B/J96okt4x6xYLaAbaBfnGXMMXD7fpm2dE\nI67RpMuTlVBIlPvmWr7gvnZQeLj03Nwec1DRXrjwjmuicMelEKlpfNOTAoGBAKJ8\n1erAhqLU7u9hqzeE8ZGq+GeM2kvy7g1y7MVhR1EsW/yzzYSrV/moTIhqDgovgS2e\n2eIeV3fLlVaE83LAHxf4QTlH8qZ31DASRcALC7dipSRjUdciDfrZAY+iQsRqhuQZ\nducnIDK8hO3SCUqfJzm5hgALmSWr4f5N9q3IjapBAoGATdlUZ3UOM0Yunz6zDzmX\nZjwmajXaWbn8gvFtKIX9tkKMX1N6fYExwT9UXWLjOWlyv4JnCzEwZ7Tyl+7u9yOB\n2wUPm6C0PJvmN77kef2N1gdOvjlQsTLP6s9MsIKX2GEK8tVZ5G65TQNJ6ESTudN7\nY1BQ35WHmHTyJwWK/o7ePVw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3hhaj@environment-monitoring-dd607.iam.gserviceaccount.com",
+  "client_id": "100998742952483524299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3hhaj%40environment-monitoring-dd607.iam.gserviceaccount.com"
+}
